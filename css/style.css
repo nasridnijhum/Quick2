@@ -1,0 +1,69 @@
+/*h1
+{
+	background-color: blue;
+}
+h1{
+	color: white;
+}
+h1{
+	border: double; width: 350px;
+}
+.yellow{
+	border: dotted; width: 350pt; background-color: yellow; font-style: oblique;
+}
+#bigfont{
+	font-size: 10pt;
+}
+
+.box{
+	width: 100px;
+	height: 100px;
+}
+
+.green{
+	background-color: limegreen;
+	margin-left: 100px;
+}
+
+.brown{
+	background-color: yellow;
+	margin: 100px;
+} 
+video{
+	width: 300px;
+	height: 220px;
+}
+table{
+	border: 2px solid green;
+}
+th,tr,td{
+	border: 1px solid green;
+}
+article{
+	width: 350px;
+}
+aside{
+	width: 350px;
+}
+label{
+	font-size: 20px;
+}
+
+table {
+border: 2px solid black;
+background-color: aqua;
+
+}
+
+th,tr,td{
+	border: 1px solid black;
+}*/
+.iframe{
+	width: 100%;
+	height: 400px;
+}
+.iframea{
+	width: 50%;
+	height: 400px;
+	float: left;
+}
